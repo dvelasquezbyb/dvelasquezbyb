@@ -9,14 +9,14 @@
  <div align="center" id="user-content-toc">
    <ul align="center">
      <summary >
-       <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+       <h2 style="display: inline-block">Tech pack👨🏻‍💻</h2>
      </summary>
    </ul>
  </div>
 
  <p align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=git,cpp,css,dotnet,postgres,github,html,js,nginx,mysql,nodejs,postman,react,vscode,&perline=14" />
+			<img src="https://skillicons.dev/icons?i=git,cpp,css,dotnet,postgres,github,html,js,nginx,mysql,nodejs,postman,react,vscode,rider,&perline=16" />
 		</a>
 	</p>
 
